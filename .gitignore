@@ -1,0 +1,5 @@
+jobs_board/__pycache__/
+jobs_board_main/__pycache__/
+jobs_board_main/migrations/__pycache__/
+jobs_board_notifications/__pycache__/
+jobs_board_notifications/migrations/__pycache__/
